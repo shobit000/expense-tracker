@@ -31,4 +31,10 @@ A full-stack expense tracking application built with the MERN stack (MongoDB, Ex
 
 ## Installation
 
-1. Clone the repository 
+1. Clone the repository
+
+Running the Application
+
+Start the development servers as described above.
+
+Open your browser and navigate to http://localhost:3000 to see the application in action.
